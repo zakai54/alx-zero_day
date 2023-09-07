@@ -1,2 +1,2 @@
 this is the first directory for zero day
-this a new line
+this a new line ok
